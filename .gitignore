@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 실행 산출물과 원장 — 개인 매출/비용 데이터라 커밋하지 않는다
+data/out/
+data/products.jsonl
